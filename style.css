@@ -86,7 +86,7 @@ header{
     background-size: cover;
 }
 .aboutdwas-conteiner{
-    background-image: url(img/artikle2.png);
+    background-image: url(/img/artikle2.png);
     height: 40%;
     background-repeat: no-repeat;
     background-size: cover;
